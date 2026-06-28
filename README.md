@@ -66,13 +66,11 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
 </p>
-
 ### AI Expertise
 
 - 🧠 Natural Language Processing (NLP)
