@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Aslam</h1>
 
 <h3 align="center">
-Software Engineer | AI Researcher | Backend & Full Stack Android Developer | University of Management and Technology (UMT)
+Software Engineer | AI Researcher | Backend & Full Stack Android Developer 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Android+Developer;Generative+AI+%7C+RAG+Researcher;FastAPI+%7C+Python+%7C+Java+%7C+Kotlin"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Android+Developer;Generative+AI+%7C+AI+Researcher;FastAPI+%7C+Python+%7C+Java+%7C+Kotlin"/>
 </p>
 
 <p align="center">
