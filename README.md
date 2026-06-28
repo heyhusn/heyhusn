@@ -26,12 +26,6 @@ Software Engineer | AI Researcher | Backend & Full Stack Android Developer
 - 🔬 Research & NLP
 - 🚀 Building real-world AI products
 
-👨‍🏫 Backend Development Lecturer at **Big Brains**
-
-📚 Former Computer Science Lecturer at **KIPS Virtual**
-
-🔬 Currently working on AI-powered educational platforms and next-generation RAG systems.
-
 ---
 
 # 🚀 Tech Stack
