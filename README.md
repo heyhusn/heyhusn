@@ -71,6 +71,7 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
 </p>
+
 ### AI Expertise
 
 - 🧠 Natural Language Processing (NLP)
@@ -152,7 +153,6 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph"/>
 </p>
 
 ---
