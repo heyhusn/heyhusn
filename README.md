@@ -5,7 +5,7 @@ Software Engineer | AI Researcher | Backend & Full Stack Android Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Android+Developer;Generative+AI+%7C+AI+Researcher;FastAPI+%7C+Python+%7C+Java+%7C+Kotlin"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Android+Developer;AI+Researcher+%7C;Generative+AI+%7C;FastAPI+%7C+Django+%7C+Java+%7C+Kotlin"/>
 </p>
 
 <p align="center">
