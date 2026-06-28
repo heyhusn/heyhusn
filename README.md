@@ -113,7 +113,7 @@ Software Engineer | AI Researcher | Backend & Full Stack Android Developer
 
 ### Additional Tools
 
-- ✨ Stitch *(No official icon available)*
+- ✨ Stitch 
 
 ---
 
