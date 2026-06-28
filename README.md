@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Aslam</h1>
 
 <h3 align="center">
-Software Engineer | AI Researcher | Backend & Android Developer | University of Management and Technology (UMT)
+Software Engineer | AI Researcher | Backend & Full Stack Android Developer | University of Management and Technology (UMT)
 </h3>
 
 <p align="center">
@@ -21,7 +21,6 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 💡 Passionate about
 
 - 🤖 Artificial Intelligence
-- 📚 Retrieval-Augmented Generation (RAG)
 - 📱 Android Development
 - ⚙️ Backend Development
 - 🔬 Research & NLP
