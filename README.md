@@ -64,14 +64,13 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 ## 🤖 AI / Machine Learning
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
-
 </p>
 
 ### AI Expertise
@@ -96,11 +95,9 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 ## ☁️ Cloud & Deployment
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=aws" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" height="48"/>&nbsp;
 <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="48"/>
-
 </p>
 
 ---
@@ -108,19 +105,12 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 ## 🛠️ Development Tools
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=azuredevops" height="48"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" height="48"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=slack" height="48"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" height="48"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" height="48"/>
-
 </p>
 
 ### Additional Tools
@@ -135,9 +125,8 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 > AI-powered Virtual Education Platform with real-time learning features for students and teachers.
 
-**Tech**
-
-<p>
+**Tech Stack:**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=androidstudio,fastapi,firebase"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain"/>
 </p>
@@ -148,9 +137,8 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 > AI Research Assistant that automates literature review, document processing and research workflows.
 
-**Tech**
-
-<p>
+**Tech Stack:**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=androidstudio,fastapi"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/>
@@ -162,9 +150,8 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 > A novel RAG architecture using PageIndex Hierarchical Tree that eliminates hallucinations in video retrieval.
 
-**Tech**
-
-<p>
+**Tech Stack:**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph"/>
@@ -176,7 +163,7 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 > Privacy-first AI classroom engagement monitoring using browser-based computer vision.
 
-**Tech**
+**Tech Stack:**
 
 - MediaPipe Face Mesh
 - FastAPI
@@ -189,9 +176,8 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 > AI-powered Android application for plant identification and personalized plant care.
 
-**Tech**
-
-<p>
+**Tech Stack:**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase"/>
 </p>
 
@@ -249,24 +235,15 @@ Software Engineer | AI Researcher | Backend & Android Developer | University of 
 
 # 🌐 Connect with Me
 
-📧 **Email**
+📧 **Email:** [mhusnainaslam2003@gmail.com](mailto:mhusnainaslam2003@gmail.com)
 
-**mhusnainaslam2003@gmail.com**
+💼 **LinkedIn:** [Husnain Aslam](https://linkedin.com/in/husnain-aslam-0a959a1a7)
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/husnain-aslam-0a959a1a7
-
-💻 **GitHub**
-
-https://github.com/heyhusn
+💻 **GitHub:** [@heyhusn](https://github.com/heyhusn)
 
 ---
 
-<p align="center">
-
-### 💡 *"Building AI that solves real-world problems."*
-
-⭐ If you like my work, don't forget to **Star** my repositories!
-
-</p>
+<div align="center">
+  <h3>💡 <em>"Building AI that solves real-world problems."</em></h3>
+  <p>⭐ If you like my work, don't forget to <b>Star</b> my repositories!</p>
+</div>
