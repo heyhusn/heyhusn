@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Aslam</h1>
 
 <h3 align="center">
@@ -272,4 +271,3 @@ https://github.com/heyhusn
 ⭐ If you like my work, don't forget to **Star** my repositories!
 
 </p>
-```
